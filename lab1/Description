@@ -1,0 +1,4 @@
+Задача классификации. Решения: Случайный лес, KNN и SVN
+Датасет: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data
+
+Параметры для модели подбирались с помощью GridSearch
